@@ -2,7 +2,7 @@
 ---
 https://github.com/i18next/i18next
 
-```
+```sh
 npm install i18next --save
 yarn add i18next
 ```
